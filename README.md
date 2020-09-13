@@ -3,6 +3,8 @@
 
 Jupyter Notebook provides end to end flow for image classification with all the necessary things mentioned below. This is a Ready to run script using google colab.
 
+# If this script helps you click start
+
 Install necessary packages. 
 
 Download the data also visualizing the same.
@@ -14,3 +16,5 @@ Creating and Training Model
 Model Prediction
 
 Using Metrics to evaluate model
+
+
