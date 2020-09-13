@@ -1,7 +1,7 @@
 # keras_image_classification
 ## End to End - Simple sample script to understand Image Classification using Keras to verify whether Concrete Cracked or not (Concrete Crack dataset)
 
-Script contains end to end flow for image classification with all the things mentioned below. This is a Ready to run script using google colab.
+Jupyter Notebook provides end to end flow for image classification with all the necessary things mentioned below. This is a Ready to run script using google colab.
 
 Install necessary packages. 
 
