@@ -1,5 +1,5 @@
 # keras_image_classification
-simple sample script to understand Image Classification using Keras to verify whether Concrete Cracked or not (Concrete Crack dataset)
+## simple sample script to understand Image Classification using Keras to verify whether Concrete Cracked or not (Concrete Crack dataset)
 
 Install necessary packages. 
 
