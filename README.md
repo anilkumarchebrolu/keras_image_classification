@@ -5,16 +5,11 @@ keras Image Classification Jupyter Notebook provides end to end flow for image c
 
 # Steps followed in this script
 
-Install necessary packages. 
-
-Download the data also visualizing the same.
-
-Splitting the dataset
-
-Creating and Training Model
-
-Model Prediction
-
-Using Metrics to evaluate model
+1. Install necessary packages. 
+2. Download the data also visualizing the same.
+3. Splitting the dataset
+4. Creating and Training Model
+5. Model Prediction
+6. Using Metrics to evaluate model
 
 
