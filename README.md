@@ -12,6 +12,6 @@ keras Image Classification Jupyter Notebook provides end to end flow for image c
 5. Model Prediction
 6. Using Metrics to evaluate model
 
-#  Used Concrete Cracked or not dataset (Concrete Crack dataset)
+###  Used Concrete Cracked or not dataset (Concrete Crack dataset)
 
 
