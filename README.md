@@ -3,7 +3,7 @@
 
 keras Image Classification Jupyter Notebook provides end to end flow for image classification with all the necessary things mentioned below. This is a Ready to run script using google colab.
 
-# If this script helps you click star
+# Steps followed in this script
 
 Install necessary packages. 
 
